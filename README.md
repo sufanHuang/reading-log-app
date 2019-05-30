@@ -3,10 +3,8 @@
      <img src="/public/screenshot.png" width="700px"</img> 
  </div>
 
-This is a reading log app.
-
+This is a reading log app.This app allow users to add,modify,delete the books they read.
 The frontend technology includes React and Bootstrap. 
-
 Backend uses firebase cloud technology.
 
 **Set Up**
