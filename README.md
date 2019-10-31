@@ -1,15 +1,11 @@
- 
+## Open the app [here]()
  <div align="center">
-     <img src="/public/screenshot.png" width="700px"</img> 
+     <img src="/public/reading-log.png" width="700px"</img> 
  </div>
 
-This is a reading log app.This app allowS users to add,modify,delete the books they read.
-Frontend technology includes React and Bootstrap. 
-Backend uses firebase cloud technology.
+This app allows users to add,modify,delete the books they read.
+ 
+## Tools
+* Frontend: create-react-app, bootstrap.
+* Backend: Firebase
 
-**Set Up**
-1. git clone https://github.com/sufanHuang/reading-log-app.git
-2. cd reading-log-app
-3. Add your own firebase config keys
-4. yarn # or npm install
-5. yarn start # or npm run start
