@@ -48,7 +48,7 @@ class App extends Component {
         return (
             <div className="container">
                 <div className="card boards-card ">
-                    <img className="card-img-top" src={image} alt="Card image cap"/>
+                    <img className="card-img-top" src={image} alt="Card cap"/>
                     <div className="card-heading text-center">
                         <h1 className="card-title">
                             READING LIST
